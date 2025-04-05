@@ -1,0 +1,2 @@
+The Python Diwali Sales Analysis project studies sales during Diwali to understand customer behavior and trends. Using Python tools like Pandas, NumPy, Matplotlib, and Seaborn, the project cleans and analyzes data,creating visuals to highlight insights. It identifies top products, customer groups, and sales patterns. Predictive models and dashboards (using tools like Scikit-learn and Streamlit) help forecast sales and guide decisions.
+This project shows skills in data handling, visualization, and creating practical business recommendations.
